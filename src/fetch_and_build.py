@@ -17,6 +17,8 @@ import sys
 import logging
 import hashlib
 import requests
+import urllib3
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 from datetime import datetime, timezone, timedelta
 from icalendar import Calendar, Event, vText, vDatetime
 
@@ -75,6 +77,7 @@ def fetch_paginated(url: str, params: dict) -> list[dict]:
                 params=params if page == 1 else None,
                 headers=HEADERS,
                 timeout=TIMEOUT,
+                verify=False,
             )
             resp.raise_for_status()
         except requests.RequestException as exc:
