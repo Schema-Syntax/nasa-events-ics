@@ -26,7 +26,7 @@ from icalendar import Calendar, Event, vText, vDatetime
 # Config
 # ---------------------------------------------------------------------------
 
-BASE_URL = "https://ll2.thespacedevs.com/2.3.0"
+BASE_URL = "https://ll.thespacedevs.com/2.3.0"
 
 LAUNCHES_ENDPOINT = f"{BASE_URL}/launches/upcoming/"
 EVENTS_ENDPOINT   = f"{BASE_URL}/events/upcoming/"
