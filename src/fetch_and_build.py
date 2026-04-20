@@ -92,30 +92,34 @@ def fetch_paginated(url: str, params: dict) -> list[dict]:
 def fetch_launches(window_end: str) -> list[dict]:
     """Fetch upcoming launches associated with NASA."""
     log.info("Fetching launches...")
-    params = {
+
+    now = datetime.now(timezone.utc).isoformat()
+
+    # Pass 1: NASA as launch service provider (lsp__id is the correct v2.3 param)
+    params_lsp = {
         "format": "json",
         "limit": 100,
-        "window_end__gte": datetime.now(timezone.utc).isoformat(),
-        "window_start__lte": window_end,
-        "related_lsp__id": 44,   # NASA as launch service provider
+        "net__gte": now,
+        "net__lte": window_end,
+        "lsp__id": 44,
     }
-    launches = fetch_paginated(LAUNCHES_ENDPOINT, params)
+    lsp_launches = fetch_paginated(LAUNCHES_ENDPOINT, params_lsp)
 
-    # Also fetch without the agency filter and keyword-match — catches
-    # commercial crew, CLPS, etc. where NASA isn't the launch provider
-    params_broad = {**params}
-    del params_broad["related_lsp__id"]
+    # Pass 2: broader fetch, keyword-filter client-side — catches commercial
+    # crew, CLPS, etc. where NASA is mission agency but not launch provider
+    params_broad = {
+        "format": "json",
+        "limit": 100,
+        "net__gte": now,
+        "net__lte": window_end,
+    }
     broad = fetch_paginated(LAUNCHES_ENDPOINT, params_broad)
-
-    nasa_broad = [
-        l for l in broad
-        if _is_nasa_related(l)
-    ]
+    nasa_broad = [l for l in broad if _is_nasa_related(l)]
 
     # Merge, deduplicate by id
     seen = set()
     merged = []
-    for item in launches + nasa_broad:
+    for item in lsp_launches + nasa_broad:
         if item["id"] not in seen:
             seen.add(item["id"])
             merged.append(item)
@@ -130,8 +134,8 @@ def fetch_events(window_end: str) -> list[dict]:
     params = {
         "format": "json",
         "limit": 100,
-        "date_gte": datetime.now(timezone.utc).isoformat(),
-        "date_lte": window_end,
+        "date__gte": datetime.now(timezone.utc).isoformat(),
+        "date__lte": window_end,
     }
     events = fetch_paginated(EVENTS_ENDPOINT, params)
 
@@ -346,4 +350,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
