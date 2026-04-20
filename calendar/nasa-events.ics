@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:🚀 Falcon 9 Block 5 | Dragon CRS-2 SpX-34 [To Be Determined]
 DTSTART:20260531T000000Z
 DTEND:20260531T010000Z
-DTSTAMP:20260420T032142Z
+DTSTAMP:20260420T080413Z
 UID:c28b962d-launch@nasa-events-ics
 DESCRIPTION:Provider: SpaceX\nLaunch site: Cape Canaveral SFS\, FL\, USA\n
  \n34th commercial resupply services mission to the International Space Sta
@@ -31,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:🚀 Pegasus XL | Swift Rescue Mission [To Be Determined]
 DTSTART:20260601T000000Z
 DTEND:20260601T010000Z
-DTSTAMP:20260420T032142Z
+DTSTAMP:20260420T080413Z
 UID:d6aa9479-launch@nasa-events-ics
 DESCRIPTION:Provider: Northrop Grumman Space Systems\nLaunch site: Air lau
  nch to orbit\n\nContracted by NASA under the Small Business Innovation Res
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:🚀 Soyuz 2.1a | Soyuz MS-29 [To Be Confirmed]
 DTSTART:20260714T144300Z
 DTEND:20260714T154300Z
-DTSTAMP:20260420T032142Z
+DTSTAMP:20260420T080413Z
 UID:13be1738-launch@nasa-events-ics
 DESCRIPTION:Provider: Russian Federal Space Agency (ROSCOSMOS)\nLaunch sit
  e: Baikonur Cosmodrome\, Republic of Kazakhstan\n\nSoyuz MS-29 will carry 
@@ -66,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:🚀 Electron | Aspera [To Be Determined]
 DTSTART:20260815T000000Z
 DTEND:20260815T010000Z
-DTSTAMP:20260420T032142Z
+DTSTAMP:20260420T080413Z
 UID:8e2d7f42-launch@nasa-events-ics
 DESCRIPTION:Provider: Rocket Lab\nLaunch site: Rocket Lab Launch Complex 1
  \, Mahia Peninsula\, New Zealand\n\nAspera houses an ultraviolet telescope
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:🚀 Falcon 9 Block 5 | Dragon CRS-2 SpX-35 [To Be Determined]
 DTSTART:20260831T000000Z
 DTEND:20260831T010000Z
-DTSTAMP:20260420T032142Z
+DTSTAMP:20260420T080413Z
 UID:08d4480b-launch@nasa-events-ics
 DESCRIPTION:Provider: SpaceX\nLaunch site: Cape Canaveral SFS\, FL\, USA\n
  \n35th commercial resupply services mission to the International Space Sta
@@ -102,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:📡 Progress MS-32 Undocking
 DTSTART:20260420T220830Z
 DTEND:20260421T000830Z
-DTSTAMP:20260420T032142Z
+DTSTAMP:20260420T080413Z
 UID:7ed02abd-event@nasa-events-ics
 DESCRIPTION:Type: Spacecraft Undocking\n\nThe Progress MS-32 spacecraft wi
  ll undock from the Zvezda module of the International Space Station.\nIt w
@@ -114,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:📡 Roman Telescope Unveiling News Conference
 DTSTART:20260421T200000Z
 DTEND:20260421T220000Z
-DTSTAMP:20260420T032142Z
+DTSTAMP:20260420T080413Z
 UID:f387049a-event@nasa-events-ics
 DESCRIPTION:Type: Press Event\n\nNASA's Nancy Grace Roman Space Telescope 
  recently completed construction and is wrapping up prelaunch testing.\n\nN
@@ -130,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:📡 Hayabusa2 S-Type Asteroid (98943) Torifune Flyby
 DTSTART:20260731T000000Z
 DTEND:20260731T020000Z
-DTSTAMP:20260420T032142Z
+DTSTAMP:20260420T080413Z
 UID:020c5456-event@nasa-events-ics
 DESCRIPTION:Type: Flyby\n\nAs part of its mission extension\, JAXA's Hayab
  usa2 spacecraft will observe S-type asteroid (98943) Torifune during a hig
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:📡 Juice Earth Flyby
 DTSTART:20260930T000000Z
 DTEND:20260930T020000Z
-DTSTAMP:20260420T032142Z
+DTSTAMP:20260420T080413Z
 UID:34994396-event@nasa-events-ics
 DESCRIPTION:Type: Flyby\n\nThird flyby of ESA's Jupiter Icy Moons Explorer
   (Juice) mission on its way to the Jovian system.\n\nDetails: https://ll.t
