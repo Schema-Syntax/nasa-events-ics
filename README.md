@@ -1,4 +1,4 @@
-# nasa-events-ics
+# NASA-Events-ICS
 
 A self-updating iCal feed of upcoming NASA launches and space events.
 
