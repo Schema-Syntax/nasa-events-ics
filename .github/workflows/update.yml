@@ -1,1 +1,49 @@
+name: Update NASA Events Calendar
+
+on:
+  schedule:
+    # Run daily at 06:00 UTC — after most overnight launch window updates
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+    # Allow manual trigger from Actions tab (useful for testing)
+
+permissions:
+  contents: write
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run fetch and build
+        run: python src/fetch_and_build.py
+
+      - name: Commit updated calendar (if changed)
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add calendar/nasa-events.ics
+          # Only commit if there are actual changes
+          if git diff --cached --quiet; then
+            echo "No changes to calendar — skipping commit"
+          else
+            COUNT=$(python -c "
+          import re, sys
+          data = open('calendar/nasa-events.ics').read()
+          print(len(re.findall(r'^BEGIN:VEVENT', data, re.MULTILINE)))
+          ")
+            git commit -m "chore: update calendar [${COUNT} events] $(date -u '+%Y-%m-%d')"
+            git push
+          fi
 
