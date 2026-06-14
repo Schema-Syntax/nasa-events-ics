@@ -13,7 +13,6 @@ permissions:
 jobs:
   update-calendar:
     runs-on: ubuntu-latest
-    env:
 
     steps:
       - name: Checkout repo
