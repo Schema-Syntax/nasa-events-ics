@@ -14,7 +14,7 @@ SUMMARY:🚀 Falcon 9 Block 5 | Project Starfall Demonstration Mission [To
   Be Confirmed]
 DTSTART:20260621T104300Z
 DTEND:20260621T152600Z
-DTSTAMP:20260616T105641Z
+DTSTAMP:20260617T102818Z
 UID:b81f2cca-launch@nasa-events-ics
 DESCRIPTION:Provider: SpaceX\nLaunch site: Cape Canaveral SFS\, FL\, USA\n
  \nNote: Mission profile and payload details are TBD.\n\nDemonstration miss
@@ -31,11 +31,29 @@ URL:https://ll.thespacedevs.com/2.3.0/launches/74bf8472-9ba1-42d6-9245-b01
  4f8e91de9/?format=json
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🚀 Pegasus XL | Swift Boost Mission [To Be Confirmed]
+DTSTART:20260627T090000Z
+DTEND:20260627T142800Z
+DTSTAMP:20260617T102818Z
+UID:d6aa9479-launch@nasa-events-ics
+DESCRIPTION:Provider: Northrop Grumman Space Systems\nLaunch site: Air lau
+ nch to orbit\n\nContracted by NASA under the Small Business Innovation Res
+ earch Phase 3 contract\, Katalyst Space Technologies' LINK servicing space
+ craft will rendezvous and attach to NASA’s Neil Gehrels Swift Observator
+ y to re-boost its orbit. This aims to demonstrate a key capability for the
+  future of space exploration and extending the Swift mission’s science l
+ ifetime in gamma ray astronomy.\n\nDetails: https://ll.thespacedevs.com/2.
+ 3.0/launches/f596ad48-881e-47d6-806d-113c6dd97427/?format=json
+LOCATION:Air launch to orbit
+URL:https://ll.thespacedevs.com/2.3.0/launches/f596ad48-881e-47d6-806d-113
+ c6dd97427/?format=json
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🚀 Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9) [To Be Dete
  rmined]
 DTSTART:20260630T000000Z
 DTEND:20260630T010000Z
-DTSTAMP:20260616T105641Z
+DTSTAMP:20260617T102818Z
 UID:28e1361a-launch@nasa-events-ics
 DESCRIPTION:Provider: SpaceX\nLaunch site: Cape Canaveral SFS\, FL\, USA\n
  \nThe Globalstar global mobile communications network offers global\, digi
@@ -51,28 +69,10 @@ URL:https://ll.thespacedevs.com/2.3.0/launches/be8b4b0d-1989-48a5-a96d-e8e
  4d59ed8b3/?format=json
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🚀 Pegasus XL | Swift Boost Mission [To Be Determined]
-DTSTART:20260630T000000Z
-DTEND:20260630T010000Z
-DTSTAMP:20260616T105641Z
-UID:d6aa9479-launch@nasa-events-ics
-DESCRIPTION:Provider: Northrop Grumman Space Systems\nLaunch site: Air lau
- nch to orbit\n\nContracted by NASA under the Small Business Innovation Res
- earch Phase 3 contract\, Katalyst Space Technologies' LINK servicing space
- craft will rendezvous and attach to NASA’s Neil Gehrels Swift Observator
- y to re-boost its orbit. This aims to demonstrate a key capability for the
-  future of space exploration and extending the Swift mission’s science l
- ifetime in gamma ray astronomy.\n\nDetails: https://ll.thespacedevs.com/2.
- 3.0/launches/f596ad48-881e-47d6-806d-113c6dd97427/?format=json
-LOCATION:Air launch to orbit
-URL:https://ll.thespacedevs.com/2.3.0/launches/f596ad48-881e-47d6-806d-113
- c6dd97427/?format=json
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🚀 Soyuz 2.1a | Soyuz MS-29 [To Be Confirmed]
 DTSTART:20260714T144300Z
 DTEND:20260714T154300Z
-DTSTAMP:20260616T105641Z
+DTSTAMP:20260617T102818Z
 UID:13be1738-launch@nasa-events-ics
 DESCRIPTION:Provider: Russian Federal Space Agency (ROSCOSMOS)\nLaunch sit
  e: Baikonur Cosmodrome\, Republic of Kazakhstan\n\nSoyuz MS-29 will carry 
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:🚀 Electron | Aspera [To Be Determined]
 DTSTART:20260815T000000Z
 DTEND:20260815T010000Z
-DTSTAMP:20260616T105641Z
+DTSTAMP:20260617T102818Z
 UID:8e2d7f42-launch@nasa-events-ics
 DESCRIPTION:Provider: Rocket Lab\nLaunch site: Rocket Lab Launch Complex 1
  \, Mahia Peninsula\, New Zealand\n\nAspera houses an ultraviolet telescope
@@ -107,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:🚀 Falcon 9 Block 5 | Dragon CRS-2 SpX-35 [To Be Determined]
 DTSTART:20260831T000000Z
 DTEND:20260831T010000Z
-DTSTAMP:20260616T105641Z
+DTSTAMP:20260617T102818Z
 UID:08d4480b-launch@nasa-events-ics
 DESCRIPTION:Provider: SpaceX\nLaunch site: Cape Canaveral SFS\, FL\, USA\n
  \n35th commercial resupply services mission to the International Space Sta
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:🚀 Falcon 9 Block 5 | Crew-13 [To Be Determined]
 DTSTART:20260930T000000Z
 DTEND:20260930T010000Z
-DTSTAMP:20260616T105641Z
+DTSTAMP:20260617T102818Z
 UID:07ab9c3c-launch@nasa-events-ics
 DESCRIPTION:Provider: SpaceX\nLaunch site: Cape Canaveral SFS\, FL\, USA\n
  \nSpaceX Crew-13 is the thirteenth crewed operational flight of a Crew Dra
@@ -140,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:🚀 Falcon Heavy | Griffin Mission One [To Be Determined]
 DTSTART:20261130T000000Z
 DTEND:20261130T010000Z
-DTSTAMP:20260616T105641Z
+DTSTAMP:20260617T102818Z
 UID:1f765932-launch@nasa-events-ics
 DESCRIPTION:Provider: SpaceX\nLaunch site: Kennedy Space Center\, FL\, USA
  \n\nDemonstration flight of the Astrobotic Griffin lander and its engines\
@@ -154,22 +154,10 @@ URL:https://ll.thespacedevs.com/2.3.0/launches/d3bd7fb2-fac6-49fc-ae52-cee
  07d2fde67/?format=json
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📡 SpaceX CRS-34 Dragon Undocking
-DTSTART:20260616T160458Z
-DTEND:20260616T180458Z
-DTSTAMP:20260616T105641Z
-UID:29d8d0c8-event@nasa-events-ics
-DESCRIPTION:Type: Spacecraft Undocking\n\nThe SpaceX CRS-34 Dragon spacecr
- aft will undock from the International Space Station ahead of its reentry\
- , splashdown and recovery.\n\nDetails: https://ll.thespacedevs.com/2.3.0/e
- vents/1490/?format=json
-URL:https://ll.thespacedevs.com/2.3.0/events/1490/?format=json
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:📡 NASA Katalyst Swift Reboost Preview Teleconference
 DTSTART:20260617T150000Z
 DTEND:20260617T170000Z
-DTSTAMP:20260616T105641Z
+DTSTAMP:20260617T102818Z
 UID:42a9063e-event@nasa-events-ics
 DESCRIPTION:Type: Press Event\n\nNASA will host an audio-only media teleco
  nference to preview the Katalyst Space mission to boost the orbit of NASA
@@ -206,7 +194,7 @@ BEGIN:VEVENT
 SUMMARY:📡 Hayabusa2 S-Type Asteroid (98943) Torifune Flyby
 DTSTART:20260705T093000Z
 DTEND:20260705T113000Z
-DTSTAMP:20260616T105641Z
+DTSTAMP:20260617T102818Z
 UID:020c5456-event@nasa-events-ics
 DESCRIPTION:Type: Flyby\n\nAs part of its mission extension\, JAXA's Hayab
  usa2 spacecraft will observe S-type asteroid (98943) Torifune during a hig
@@ -218,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:📡 Juice Earth Flyby
 DTSTART:20260930T000000Z
 DTEND:20260930T020000Z
-DTSTAMP:20260616T105641Z
+DTSTAMP:20260617T102818Z
 UID:34994396-event@nasa-events-ics
 DESCRIPTION:Type: Flyby\n\nThird flyby of ESA's Jupiter Icy Moons Explorer
   (Juice) mission on its way to the Jovian system.\n\nDetails: https://ll.t
@@ -229,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:📡 BepiColombo Mercury Orbit Insertion
 DTSTART:20261130T000000Z
 DTEND:20261130T020000Z
-DTSTAMP:20260616T105641Z
+DTSTAMP:20260617T102818Z
 UID:26370514-event@nasa-events-ics
 DESCRIPTION:Type: Orbital Insertion\n\nOrbital insertion around Mercury of
   the ESA-JAXA BepiColombo mission.\n\nDetails: https://ll.thespacedevs.com
