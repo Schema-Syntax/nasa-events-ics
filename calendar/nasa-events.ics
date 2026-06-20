@@ -14,7 +14,7 @@ SUMMARY:🚀 Falcon 9 Block 5 | Project Starfall Demonstration Mission [Go
   for Launch]
 DTSTART:20260623T104300Z
 DTEND:20260623T114300Z
-DTSTAMP:20260619T101438Z
+DTSTAMP:20260620T084230Z
 UID:b81f2cca-launch@nasa-events-ics
 DESCRIPTION:Provider: SpaceX\nLaunch site: Cape Canaveral SFS\, FL\, USA\n
  \nNote: Mission profile and payload details are TBD.\n\nDemonstration miss
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:🚀 Pegasus XL | Swift Boost Mission [Go for Launch]
 DTSTART:20260627T090000Z
 DTEND:20260627T142800Z
-DTSTAMP:20260619T101438Z
+DTSTAMP:20260620T084230Z
 UID:d6aa9479-launch@nasa-events-ics
 DESCRIPTION:Provider: Northrop Grumman Space Systems\nLaunch site: Air lau
  nch to orbit\n\nContracted by NASA under the Small Business Innovation Res
@@ -53,7 +53,7 @@ SUMMARY:🚀 Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9) [To Be Dete
  rmined]
 DTSTART:20260630T000000Z
 DTEND:20260630T010000Z
-DTSTAMP:20260619T101438Z
+DTSTAMP:20260620T084230Z
 UID:28e1361a-launch@nasa-events-ics
 DESCRIPTION:Provider: SpaceX\nLaunch site: Cape Canaveral SFS\, FL\, USA\n
  \nThe Globalstar global mobile communications network offers global\, digi
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:🚀 Soyuz 2.1a | Soyuz MS-29 [To Be Confirmed]
 DTSTART:20260714T144300Z
 DTEND:20260714T154300Z
-DTSTAMP:20260619T101438Z
+DTSTAMP:20260620T084230Z
 UID:13be1738-launch@nasa-events-ics
 DESCRIPTION:Provider: Russian Federal Space Agency (ROSCOSMOS)\nLaunch sit
  e: Baikonur Cosmodrome\, Republic of Kazakhstan\n\nSoyuz MS-29 will carry 
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:🚀 Electron | Aspera [To Be Determined]
 DTSTART:20260815T000000Z
 DTEND:20260815T010000Z
-DTSTAMP:20260619T101438Z
+DTSTAMP:20260620T084230Z
 UID:8e2d7f42-launch@nasa-events-ics
 DESCRIPTION:Provider: Rocket Lab\nLaunch site: Rocket Lab Launch Complex 1
  \, Mahia Peninsula\, New Zealand\n\nAspera houses an ultraviolet telescope
@@ -107,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:🚀 Falcon 9 Block 5 | Dragon CRS-2 SpX-35 [To Be Determined]
 DTSTART:20260831T000000Z
 DTEND:20260831T010000Z
-DTSTAMP:20260619T101438Z
+DTSTAMP:20260620T084230Z
 UID:08d4480b-launch@nasa-events-ics
 DESCRIPTION:Provider: SpaceX\nLaunch site: Cape Canaveral SFS\, FL\, USA\n
  \n35th commercial resupply services mission to the International Space Sta
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:🚀 Falcon 9 Block 5 | Crew-13 [To Be Determined]
 DTSTART:20260930T000000Z
 DTEND:20260930T010000Z
-DTSTAMP:20260619T101438Z
+DTSTAMP:20260620T084230Z
 UID:07ab9c3c-launch@nasa-events-ics
 DESCRIPTION:Provider: SpaceX\nLaunch site: Cape Canaveral SFS\, FL\, USA\n
  \nSpaceX Crew-13 is the thirteenth crewed operational flight of a Crew Dra
@@ -140,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:🚀 Falcon Heavy | Griffin Mission One [To Be Determined]
 DTSTART:20261130T000000Z
 DTEND:20261130T010000Z
-DTSTAMP:20260619T101438Z
+DTSTAMP:20260620T084230Z
 UID:1f765932-launch@nasa-events-ics
 DESCRIPTION:Provider: SpaceX\nLaunch site: Kennedy Space Center\, FL\, USA
  \n\nDemonstration flight of the Astrobotic Griffin lander and its engines\
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:📡 Hayabusa2 S-Type Asteroid (98943) Torifune Flyby
 DTSTART:20260705T093000Z
 DTEND:20260705T113000Z
-DTSTAMP:20260619T101438Z
+DTSTAMP:20260620T084230Z
 UID:020c5456-event@nasa-events-ics
 DESCRIPTION:Type: Flyby\n\nAs part of its mission extension\, JAXA's Hayab
  usa2 spacecraft will observe S-type asteroid (98943) Torifune during a hig
@@ -169,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:📡 Juice Earth Flyby
 DTSTART:20260930T000000Z
 DTEND:20260930T020000Z
-DTSTAMP:20260619T101438Z
+DTSTAMP:20260620T084230Z
 UID:34994396-event@nasa-events-ics
 DESCRIPTION:Type: Flyby\n\nThird flyby of ESA's Jupiter Icy Moons Explorer
   (Juice) mission on its way to the Jovian system.\n\nDetails: https://ll.t
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:📡 BepiColombo Mercury Orbit Insertion
 DTSTART:20261130T000000Z
 DTEND:20261130T020000Z
-DTSTAMP:20260619T101438Z
+DTSTAMP:20260620T084230Z
 UID:26370514-event@nasa-events-ics
 DESCRIPTION:Type: Orbital Insertion\n\nOrbital insertion around Mercury of
   the ESA-JAXA BepiColombo mission.\n\nDetails: https://ll.thespacedevs.com
