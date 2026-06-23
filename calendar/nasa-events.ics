@@ -14,7 +14,7 @@ SUMMARY:🚀 Falcon 9 Block 5 | Project Starfall Demonstration Mission [Go
   for Launch]
 DTSTART:20260623T104300Z
 DTEND:20260623T114300Z
-DTSTAMP:20260622T113730Z
+DTSTAMP:20260623T092402Z
 UID:b81f2cca-launch@nasa-events-ics
 DESCRIPTION:Provider: SpaceX\nLaunch site: Cape Canaveral SFS\, FL\, USA\n
  \nNote: Mission profile and payload details are TBD.\n\nDemonstration miss
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:🚀 Pegasus XL | Swift Boost Mission [Go for Launch]
 DTSTART:20260627T090000Z
 DTEND:20260627T142800Z
-DTSTAMP:20260622T113730Z
+DTSTAMP:20260623T092402Z
 UID:d6aa9479-launch@nasa-events-ics
 DESCRIPTION:Provider: Northrop Grumman Space Systems\nLaunch site: Air lau
  nch to orbit\n\nContracted by NASA under the Small Business Innovation Res
@@ -49,11 +49,28 @@ URL:https://ll.thespacedevs.com/2.3.0/launches/f596ad48-881e-47d6-806d-113
  c6dd97427/?format=json
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🚀 Soyuz 2.1a | Soyuz MS-29 [To Be Confirmed]
+DTSTART:20260714T144300Z
+DTEND:20260714T154300Z
+DTSTAMP:20260623T092402Z
+UID:13be1738-launch@nasa-events-ics
+DESCRIPTION:Provider: Russian Federal Space Agency (ROSCOSMOS)\nLaunch sit
+ e: Baikonur Cosmodrome\, Republic of Kazakhstan\n\nSoyuz MS-29 will carry 
+ three cosmonauts and one astronaut to the International Space Station aboa
+ rd the Soyuz spacecraft from the Baikonur Cosmodrome in Kazakhstan. The cr
+ ew consists of Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina\, as well
+  as NASA astronaut Anil Menon.\n\nDetails: https://ll.thespacedevs.com/2.3
+ .0/launches/a556b963-0f36-4660-95a8-fdffdba653e2/?format=json
+LOCATION:Baikonur Cosmodrome\, Republic of Kazakhstan
+URL:https://ll.thespacedevs.com/2.3.0/launches/a556b963-0f36-4660-95a8-fdf
+ fdba653e2/?format=json
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🚀 Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9) [To Be Dete
  rmined]
-DTSTART:20260630T000000Z
-DTEND:20260630T010000Z
-DTSTAMP:20260622T113730Z
+DTSTART:20260731T000000Z
+DTEND:20260731T010000Z
+DTSTAMP:20260623T092402Z
 UID:28e1361a-launch@nasa-events-ics
 DESCRIPTION:Provider: SpaceX\nLaunch site: Cape Canaveral SFS\, FL\, USA\n
  \nThe Globalstar global mobile communications network offers global\, digi
@@ -69,27 +86,10 @@ URL:https://ll.thespacedevs.com/2.3.0/launches/be8b4b0d-1989-48a5-a96d-e8e
  4d59ed8b3/?format=json
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🚀 Soyuz 2.1a | Soyuz MS-29 [To Be Confirmed]
-DTSTART:20260714T144300Z
-DTEND:20260714T154300Z
-DTSTAMP:20260622T113730Z
-UID:13be1738-launch@nasa-events-ics
-DESCRIPTION:Provider: Russian Federal Space Agency (ROSCOSMOS)\nLaunch sit
- e: Baikonur Cosmodrome\, Republic of Kazakhstan\n\nSoyuz MS-29 will carry 
- three cosmonauts and one astronaut to the International Space Station aboa
- rd the Soyuz spacecraft from the Baikonur Cosmodrome in Kazakhstan. The cr
- ew consists of Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina\, as well
-  as NASA astronaut Anil Menon.\n\nDetails: https://ll.thespacedevs.com/2.3
- .0/launches/a556b963-0f36-4660-95a8-fdffdba653e2/?format=json
-LOCATION:Baikonur Cosmodrome\, Republic of Kazakhstan
-URL:https://ll.thespacedevs.com/2.3.0/launches/a556b963-0f36-4660-95a8-fdf
- fdba653e2/?format=json
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🚀 Electron | Aspera [To Be Determined]
 DTSTART:20260815T000000Z
 DTEND:20260815T010000Z
-DTSTAMP:20260622T113730Z
+DTSTAMP:20260623T092402Z
 UID:8e2d7f42-launch@nasa-events-ics
 DESCRIPTION:Provider: Rocket Lab\nLaunch site: Rocket Lab Launch Complex 1
  \, Mahia Peninsula\, New Zealand\n\nAspera houses an ultraviolet telescope
@@ -107,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:🚀 Falcon 9 Block 5 | Dragon CRS-2 SpX-35 [To Be Determined]
 DTSTART:20260831T000000Z
 DTEND:20260831T010000Z
-DTSTAMP:20260622T113730Z
+DTSTAMP:20260623T092402Z
 UID:08d4480b-launch@nasa-events-ics
 DESCRIPTION:Provider: SpaceX\nLaunch site: Cape Canaveral SFS\, FL\, USA\n
  \n35th commercial resupply services mission to the International Space Sta
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:🚀 Falcon 9 Block 5 | Crew-13 [To Be Determined]
 DTSTART:20260930T000000Z
 DTEND:20260930T010000Z
-DTSTAMP:20260622T113730Z
+DTSTAMP:20260623T092402Z
 UID:07ab9c3c-launch@nasa-events-ics
 DESCRIPTION:Provider: SpaceX\nLaunch site: Cape Canaveral SFS\, FL\, USA\n
  \nSpaceX Crew-13 is the thirteenth crewed operational flight of a Crew Dra
@@ -140,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:🚀 Falcon Heavy | Griffin Mission One [To Be Determined]
 DTSTART:20261130T000000Z
 DTEND:20261130T010000Z
-DTSTAMP:20260622T113730Z
+DTSTAMP:20260623T092402Z
 UID:1f765932-launch@nasa-events-ics
 DESCRIPTION:Provider: SpaceX\nLaunch site: Kennedy Space Center\, FL\, USA
  \n\nDemonstration flight of the Astrobotic Griffin lander and its engines\
@@ -154,10 +154,37 @@ URL:https://ll.thespacedevs.com/2.3.0/launches/d3bd7fb2-fac6-49fc-ae52-cee
  07d2fde67/?format=json
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:📡 US EVA-95 Preview News Conference
+DTSTART:20260625T180000Z
+DTEND:20260625T200000Z
+DTSTAMP:20260623T092402Z
+UID:f09cf5d6-event@nasa-events-ics
+DESCRIPTION:Type: Press Event\n\nNASA will discuss the upcoming US EVA-95 
+ spacewalk during a news conference at the agency’s Johnson Space Center 
+ in Houston.\n\nNASA participants include:\n- Bill Spetch\, operations and 
+ integration manager\, International Space Station Program\, NASA Johnson\n
+ - Fiona Antkowiak\, spacewalk flight director\, NASA Johnson\n- Jason Dyer
+ \, deputy liaison manager\, CSA\n\nDetails: https://ll.thespacedevs.com/2.
+ 3.0/events/1492/?format=json
+URL:https://ll.thespacedevs.com/2.3.0/events/1492/?format=json
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧑‍🚀 US EVA-95
+DTSTART:20260630T123500Z
+DTEND:20260630T143500Z
+DTSTAMP:20260623T092402Z
+UID:ced5e8a9-event@nasa-events-ics
+DESCRIPTION:Type: EVA\n\nNASA astronauts Chris Williams and Jessica Meir w
+ ill replace a wrist joint on the International Space Station’s Canadarm2
+  robotic arm\, using a spare already aboard the space station.\n\nDetails:
+  https://ll.thespacedevs.com/2.3.0/events/1309/?format=json
+URL:https://ll.thespacedevs.com/2.3.0/events/1309/?format=json
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:📡 Hayabusa2 S-Type Asteroid (98943) Torifune Flyby
 DTSTART:20260705T093000Z
 DTEND:20260705T113000Z
-DTSTAMP:20260622T113730Z
+DTSTAMP:20260623T092402Z
 UID:020c5456-event@nasa-events-ics
 DESCRIPTION:Type: Flyby\n\nAs part of its mission extension\, JAXA's Hayab
  usa2 spacecraft will observe S-type asteroid (98943) Torifune during a hig
@@ -169,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:📡 Juice Earth Flyby
 DTSTART:20260930T000000Z
 DTEND:20260930T020000Z
-DTSTAMP:20260622T113730Z
+DTSTAMP:20260623T092402Z
 UID:34994396-event@nasa-events-ics
 DESCRIPTION:Type: Flyby\n\nThird flyby of ESA's Jupiter Icy Moons Explorer
   (Juice) mission on its way to the Jovian system.\n\nDetails: https://ll.t
@@ -180,7 +207,7 @@ BEGIN:VEVENT
 SUMMARY:📡 BepiColombo Mercury Orbit Insertion
 DTSTART:20261130T000000Z
 DTEND:20261130T020000Z
-DTSTAMP:20260622T113730Z
+DTSTAMP:20260623T092402Z
 UID:26370514-event@nasa-events-ics
 DESCRIPTION:Type: Orbital Insertion\n\nOrbital insertion around Mercury of
   the ESA-JAXA BepiColombo mission.\n\nDetails: https://ll.thespacedevs.com
