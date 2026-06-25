@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:🚀 Pegasus XL | Swift Boost Mission [Go for Launch]
 DTSTART:20260627T090000Z
 DTEND:20260627T142800Z
-DTSTAMP:20260624T085442Z
+DTSTAMP:20260625T084931Z
 UID:d6aa9479-launch@nasa-events-ics
 DESCRIPTION:Provider: Northrop Grumman Space Systems\nLaunch site: Air lau
  nch to orbit\n\nContracted by NASA under the Small Business Innovation Res
@@ -31,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:🚀 Soyuz 2.1a | Soyuz MS-29 [To Be Confirmed]
 DTSTART:20260714T144300Z
 DTEND:20260714T154300Z
-DTSTAMP:20260624T085442Z
+DTSTAMP:20260625T084931Z
 UID:13be1738-launch@nasa-events-ics
 DESCRIPTION:Provider: Russian Federal Space Agency (ROSCOSMOS)\nLaunch sit
  e: Baikonur Cosmodrome\, Republic of Kazakhstan\n\nSoyuz MS-29 will carry 
@@ -49,7 +49,7 @@ SUMMARY:🚀 Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9) [To Be Dete
  rmined]
 DTSTART:20260731T000000Z
 DTEND:20260731T010000Z
-DTSTAMP:20260624T085442Z
+DTSTAMP:20260625T084931Z
 UID:28e1361a-launch@nasa-events-ics
 DESCRIPTION:Provider: SpaceX\nLaunch site: Cape Canaveral SFS\, FL\, USA\n
  \nThe Globalstar global mobile communications network offers global\, digi
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:🚀 Electron | Aspera [To Be Determined]
 DTSTART:20260815T000000Z
 DTEND:20260815T010000Z
-DTSTAMP:20260624T085442Z
+DTSTAMP:20260625T084931Z
 UID:8e2d7f42-launch@nasa-events-ics
 DESCRIPTION:Provider: Rocket Lab\nLaunch site: Rocket Lab Launch Complex 1
  \, Mahia Peninsula\, New Zealand\n\nAspera houses an ultraviolet telescope
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:🚀 Falcon 9 Block 5 | Dragon CRS-2 SpX-35 [To Be Determined]
 DTSTART:20260831T000000Z
 DTEND:20260831T010000Z
-DTSTAMP:20260624T085442Z
+DTSTAMP:20260625T084931Z
 UID:08d4480b-launch@nasa-events-ics
 DESCRIPTION:Provider: SpaceX\nLaunch site: Cape Canaveral SFS\, FL\, USA\n
  \n35th commercial resupply services mission to the International Space Sta
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:🚀 Falcon 9 Block 5 | Crew-13 [To Be Determined]
 DTSTART:20260930T000000Z
 DTEND:20260930T010000Z
-DTSTAMP:20260624T085442Z
+DTSTAMP:20260625T084931Z
 UID:07ab9c3c-launch@nasa-events-ics
 DESCRIPTION:Provider: SpaceX\nLaunch site: Cape Canaveral SFS\, FL\, USA\n
  \nSpaceX Crew-13 is the thirteenth crewed operational flight of a Crew Dra
@@ -119,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:🚀 Falcon Heavy | Griffin Mission One [To Be Determined]
 DTSTART:20261130T000000Z
 DTEND:20261130T010000Z
-DTSTAMP:20260624T085442Z
+DTSTAMP:20260625T084931Z
 UID:1f765932-launch@nasa-events-ics
 DESCRIPTION:Provider: SpaceX\nLaunch site: Kennedy Space Center\, FL\, USA
  \n\nDemonstration flight of the Astrobotic Griffin lander and its engines\
@@ -136,7 +136,7 @@ BEGIN:VEVENT
 SUMMARY:📡 US EVA-95 Preview News Conference
 DTSTART:20260625T180000Z
 DTEND:20260625T200000Z
-DTSTAMP:20260624T085442Z
+DTSTAMP:20260625T084931Z
 UID:f09cf5d6-event@nasa-events-ics
 DESCRIPTION:Type: Press Event\n\nNASA will discuss the upcoming US EVA-95 
  spacewalk during a news conference at the agency’s Johnson Space Center 
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:🧑‍🚀 US EVA-95
 DTSTART:20260630T123500Z
 DTEND:20260630T143500Z
-DTSTAMP:20260624T085442Z
+DTSTAMP:20260625T084931Z
 UID:ced5e8a9-event@nasa-events-ics
 DESCRIPTION:Type: EVA\n\nNASA astronauts Chris Williams and Jessica Meir w
  ill replace a wrist joint on the International Space Station’s Canadarm2
@@ -163,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:📡 Hayabusa2 S-Type Asteroid (98943) Torifune Flyby
 DTSTART:20260705T093000Z
 DTEND:20260705T113000Z
-DTSTAMP:20260624T085442Z
+DTSTAMP:20260625T084931Z
 UID:020c5456-event@nasa-events-ics
 DESCRIPTION:Type: Flyby\n\nAs part of its mission extension\, JAXA's Hayab
  usa2 spacecraft will observe S-type asteroid (98943) Torifune during a hig
@@ -175,7 +175,7 @@ BEGIN:VEVENT
 SUMMARY:📡 Juice Earth Flyby
 DTSTART:20260930T000000Z
 DTEND:20260930T020000Z
-DTSTAMP:20260624T085442Z
+DTSTAMP:20260625T084931Z
 UID:34994396-event@nasa-events-ics
 DESCRIPTION:Type: Flyby\n\nThird flyby of ESA's Jupiter Icy Moons Explorer
   (Juice) mission on its way to the Jovian system.\n\nDetails: https://ll.t
@@ -186,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:📡 BepiColombo Mercury Orbit Insertion
 DTSTART:20261130T000000Z
 DTEND:20261130T020000Z
-DTSTAMP:20260624T085442Z
+DTSTAMP:20260625T084931Z
 UID:26370514-event@nasa-events-ics
 DESCRIPTION:Type: Orbital Insertion\n\nOrbital insertion around Mercury of
   the ESA-JAXA BepiColombo mission.\n\nDetails: https://ll.thespacedevs.com
